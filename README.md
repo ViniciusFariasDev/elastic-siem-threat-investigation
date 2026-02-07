@@ -40,3 +40,5 @@ Investigating with Elastic Stack
 
 ```kql
 Source_Country: "United States" and (UserName: "James" or UserName: "Albert")
+
+![Elastic](screenshots/Elastic.png)
