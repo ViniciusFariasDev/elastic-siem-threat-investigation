@@ -36,9 +36,11 @@ Investigating with Elastic Stack
 - Kibana Discover
 - Kibana Query Language (KQL)
 
+![elastic-data](screenshots/Elastic.png)
+
 ## Example Query Used
 
 ```kql
 Source_Country: "United States" and (UserName: "James" or UserName: "Albert")
 
-![elastic-data](screenshots/Elastic.png)
+
